@@ -9,11 +9,11 @@ import glob
 # import csv
 # from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 
-from preprocess import Preprocess
-from model import Model
-from utils import Utils
-import preflight
-from pipeline import Pipeline
+from ML.pipeline.steps.preprocess import Preprocess
+from ML.pipeline.steps.model import Model
+from ML.pipeline.steps.utils import Utils
+from ML.pipeline.steps.preflight import Preflight
+from ML.pipeline.pipeline import Pipeline
 
 def main():
     path = r'C:\Users\User'+'\\'
@@ -30,7 +30,7 @@ def main():
     
     
     steps = [
-        preflight(),
+        Preflight(),
         Preprocess(),
         Model(),
         ]

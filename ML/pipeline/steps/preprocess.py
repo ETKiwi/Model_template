@@ -6,8 +6,9 @@ Created on Wed Dec 14 10:17:21 2022
 """
 import pandas as pd
 
+from ML.pipeline.steps.step import Step
 
-class Preprocess:
+class Preprocess(Step):
     
     def process(self, data, inputs, utils):
         dt_append = pd.DataFrame()

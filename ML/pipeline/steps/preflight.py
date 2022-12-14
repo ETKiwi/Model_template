@@ -6,8 +6,13 @@ Created on Wed Dec 14 11:29:24 2022
 """
 # import os
 # import glob
-def process(self, data, inputs, utils):
-    print('in Preflight')
+
+from ML.pipeline.steps.step import Step
+
+
+class Preflight(Step):
+    def process(self, data, inputs, utils):
+        print('in Preflight')
 
 
 
