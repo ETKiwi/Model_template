@@ -1,2 +1,3 @@
 # Model_template
-Machine learning template
+This is Machine learning template for python with sklearn
+
