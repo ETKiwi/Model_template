@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
 wincertstore==0.2
+=======
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+wincertstore==0.2
+>>>>>>> c284d2f6d91e94d3a5a7dc9797a1efd3c21e827f
