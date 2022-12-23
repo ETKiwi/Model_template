@@ -6,6 +6,7 @@ This is Machine learning template for python with sklearn
 執行 pip install -r requirements.txt 可安裝。
 
 ## my_temp
+```
 |_ main.py
    utils.py
    
@@ -17,6 +18,7 @@ This is Machine learning template for python with sklearn
          preglight.py
          preprocess.py
          step.py
+ ```
 
 ## main.py
 
