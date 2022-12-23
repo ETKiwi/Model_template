@@ -2,7 +2,7 @@
 This is Machine learning template for python with sklearn
 
 ## requirements.txt 
-- 模組套件整理在requirements.txt，版本如下:
+- package in 'requirements.txt', version as below:
 ```
 numpy == 1.20.3
 pandas == 1.3.4
@@ -30,6 +30,9 @@ scikit-learn == 0.24.2
 ## main.py
  執行
 
+## utils.py
+ 延伸工具, 包含繪圖,....
+
 ## step.py
  程式架構(abstract method)
 
@@ -37,11 +40,11 @@ scikit-learn == 0.24.2
  預設為初步initial使用
 
 ## preprocess.py
- 資料前處理內容，
+ 資料前處理內容,
  包含資料轉換, na清洗,...
 
 ## model.py
- 模型建製內容，
+ 模型建製內容, 
  包含模型, imbalanced data
  
 ## 備註
