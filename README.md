@@ -12,7 +12,7 @@ torchvision == 0.11.3
 tensorflow == 2.8.0
 scikit-learn == 0.24.2
 ```
-*執行 pip install -r requirements.txt 進行安裝。
+*run ```pip install -r requirements.txt``` in CLI to isntall.
 
 ## my_temp
 ```
@@ -28,25 +28,24 @@ scikit-learn == 0.24.2
  ```
 
 ## main.py
- 執行
+ main function serves as the entry point for the program.
 
 ## utils.py
- 延伸工具, 包含繪圖,....
+ common extended function, including drawing,....
 
 ## step.py
- 程式架構(abstract method)
+ framework for the program (use abstract method).
 
 ## preflight.py
- 預設為初步initial使用
+ default for the program initial (now is empty).
 
 ## preprocess.py
- 資料前處理內容,
- 包含資料轉換, na清洗,...
+ data preprocess, including data transform, nan or null data cleaning,...
 
 ## model.py
- 模型建製內容, 
- 包含模型, imbalanced data
+ build machine learning model and model process,  including model, imbalanced data,...
  
-## 備註
+## remark
+
 
 
