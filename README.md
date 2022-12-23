@@ -28,15 +28,16 @@ scikit-learn == 0.24.2
  ```
 
 ## main.py
+ 執行
 
 ## step.py
- abstract method 程式架構
+ 程式架構(abstract method)
 
 ## preflight.py
  空的內容，方便之後擴展使用。
 
 ## preprocess.py
- 資料前處理內容，包含資料轉換, na清洗,
+ 資料前處理內容，包含資料轉換, na清洗,...
 
 ## model.py
  模型建製內容，包含模型, imbalanced data
