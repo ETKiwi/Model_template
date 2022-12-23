@@ -5,7 +5,7 @@ This is Machine learning template for python with sklearn
 - 模組套件整理在requirements.txt，版本如下:
 執行 pip install -r requirements.txt 可安裝。
 
-## ML
+## my_temp
 |_ main.py
    utils.py
    pipeline
