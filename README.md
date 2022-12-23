@@ -8,8 +8,10 @@ This is Machine learning template for python with sklearn
 ## my_temp
 |_ main.py
    utils.py
+   
    pipeline
    |_ pipeline.py
+      
       steps
       |_ model.py
          preglight.py
