@@ -43,8 +43,14 @@ scikit-learn == 0.24.2
  data preprocess, including data transform, nan or null data cleaning,...
 
 ## model.py
- build machine learning model and model process,  including model, imbalanced data,...
+ build ML model and model process,  including model, imbalanced data,...
  
+## model_compare.py
+compare diff ML model r2 or accuracy.
+
+## plot_model_compare.py
+plot the result of diff ML model comparation (r2 or accuracy).
+
 ## remark
 
 
