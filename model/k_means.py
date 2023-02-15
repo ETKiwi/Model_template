@@ -27,7 +27,7 @@ def plt_scatter(x, y, title = 'scatter'):
 
 def plt_chinese():
     plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei'] # 顯示中文
-    plt.rcParams['axes.unicode_minus'] = False # 顯示負號
+    # plt.rcParams['axes.unicode_minus'] = False # 顯示負號
     
 # 建立隨機資料
 def build_data():
