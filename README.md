@@ -1,4 +1,4 @@
-# Model_template
+# my model_template
 This is my machine learning template in python
 
 ## requirements.txt 
