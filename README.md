@@ -1,5 +1,5 @@
 # Model_template
-This is Machine learning template for python with sklearn
+This is my machine learning template in python
 
 ## requirements.txt 
 - package in 'requirements.txt', version as below:
