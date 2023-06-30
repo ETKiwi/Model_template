@@ -12,7 +12,7 @@ torchvision == 0.11.3
 tensorflow == 2.8.0
 scikit-learn == 0.24.2
 ```
-*run ```pip install -r requirements.txt``` in CLI to isntall.
+*run ```pip install -r requirements.txt``` in CLI to install.
 
 ## my_temp
 ```
